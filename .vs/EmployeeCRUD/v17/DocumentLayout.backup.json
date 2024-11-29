@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\MK\\Desktop\\C#\\EmployeeCRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C232499-6A3A-4CE3-ADA5-9463B0004249}|EmployeeCRUD.csproj|c:\\users\\mk\\desktop\\c#\\employeecrud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C232499-6A3A-4CE3-ADA5-9463B0004249}|EmployeeCRUD.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C232499-6A3A-4CE3-ADA5-9463B0004249}|EmployeeCRUD.csproj|c:\\users\\mk\\desktop\\c#\\employeecrud\\repo\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C232499-6A3A-4CE3-ADA5-9463B0004249}|EmployeeCRUD.csproj|solutionrelative:repo\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C232499-6A3A-4CE3-ADA5-9463B0004249}|EmployeeCRUD.csproj|c:\\users\\mk\\desktop\\c#\\employeecrud\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C232499-6A3A-4CE3-ADA5-9463B0004249}|EmployeeCRUD.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4C232499-6A3A-4CE3-ADA5-9463B0004249}|EmployeeCRUD.csproj|c:\\users\\mk\\desktop\\c#\\employeecrud\\repo\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C232499-6A3A-4CE3-ADA5-9463B0004249}|EmployeeCRUD.csproj|solutionrelative:repo\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C232499-6A3A-4CE3-ADA5-9463B0004249}|EmployeeCRUD.csproj|c:\\users\\mk\\desktop\\c#\\employeecrud\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C232499-6A3A-4CE3-ADA5-9463B0004249}|EmployeeCRUD.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C232499-6A3A-4CE3-ADA5-9463B0004249}|EmployeeCRUD.csproj|c:\\users\\mk\\desktop\\c#\\employeecrud\\repo\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C232499-6A3A-4CE3-ADA5-9463B0004249}|EmployeeCRUD.csproj|solutionrelative:repo\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4C232499-6A3A-4CE3-ADA5-9463B0004249}|EmployeeCRUD.csproj|c:\\users\\mk\\desktop\\c#\\employeecrud\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C232499-6A3A-4CE3-ADA5-9463B0004249}|EmployeeCRUD.csproj|solutionrelative:model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C232499-6A3A-4CE3-ADA5-9463B0004249}|EmployeeCRUD.csproj|c:\\users\\mk\\desktop\\c#\\employeecrud\\model\\employeeragister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C232499-6A3A-4CE3-ADA5-9463B0004249}|EmployeeCRUD.csproj|solutionrelative:model\\employeeragister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C232499-6A3A-4CE3-ADA5-9463B0004249}|EmployeeCRUD.csproj|c:\\users\\mk\\desktop\\c#\\employeecrud\\controller\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C232499-6A3A-4CE3-ADA5-9463B0004249}|EmployeeCRUD.csproj|solutionrelative:controller\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C232499-6A3A-4CE3-ADA5-9463B0004249}|EmployeeCRUD.csproj|c:\\users\\mk\\desktop\\c#\\employeecrud\\model\\dto\\massageboxdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C232499-6A3A-4CE3-ADA5-9463B0004249}|EmployeeCRUD.csproj|solutionrelative:model\\dto\\massageboxdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C232499-6A3A-4CE3-ADA5-9463B0004249}|EmployeeCRUD.csproj|c:\\users\\mk\\desktop\\c#\\employeecrud\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C232499-6A3A-4CE3-ADA5-9463B0004249}|EmployeeCRUD.csproj|solutionrelative:model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +42,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\MK\\Desktop\\C#\\EmployeeCRUD\\Model\\Login.cs",
+              "RelativeDocumentMoniker": "Model\\Login.cs",
+              "ToolTip": "C:\\Users\\MK\\Desktop\\C#\\EmployeeCRUD\\Model\\Login.cs",
+              "RelativeToolTip": "Model\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:59:11.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MassageBoxDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MK\\Desktop\\C#\\EmployeeCRUD\\Model\\DTO\\MassageBoxDTO.cs",
+              "RelativeDocumentMoniker": "Model\\DTO\\MassageBoxDTO.cs",
+              "ToolTip": "C:\\Users\\MK\\Desktop\\C#\\EmployeeCRUD\\Model\\DTO\\MassageBoxDTO.cs",
+              "RelativeToolTip": "Model\\DTO\\MassageBoxDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:57:21.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\MK\\Desktop\\C#\\EmployeeCRUD\\Controller\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controller\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\MK\\Desktop\\C#\\EmployeeCRUD\\Controller\\EmployeeController.cs",
+              "RelativeToolTip": "Controller\\EmployeeController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAswCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T07:02:39.057Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "EmployeeRagister.cs",
+              "DocumentMoniker": "C:\\Users\\MK\\Desktop\\C#\\EmployeeCRUD\\Model\\EmployeeRagister.cs",
+              "RelativeDocumentMoniker": "Model\\EmployeeRagister.cs",
+              "ToolTip": "C:\\Users\\MK\\Desktop\\C#\\EmployeeCRUD\\Model\\EmployeeRagister.cs",
+              "RelativeToolTip": "Model\\EmployeeRagister.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:35:18.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\MK\\Desktop\\C#\\EmployeeCRUD\\Model\\Employee.cs",
               "RelativeDocumentMoniker": "Model\\Employee.cs",
               "ToolTip": "C:\\Users\\MK\\Desktop\\C#\\EmployeeCRUD\\Model\\Employee.cs",
               "RelativeToolTip": "Model\\Employee.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T11:01:21.261Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\MK\\Desktop\\C#\\EmployeeCRUD\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\MK\\Desktop\\C#\\EmployeeCRUD\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwBUAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T08:46:06.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IEmployeeRepository.cs",
               "DocumentMoniker": "C:\\Users\\MK\\Desktop\\C#\\EmployeeCRUD\\Repo\\IEmployeeRepository.cs",
               "RelativeDocumentMoniker": "Repo\\IEmployeeRepository.cs",
               "ToolTip": "C:\\Users\\MK\\Desktop\\C#\\EmployeeCRUD\\Repo\\IEmployeeRepository.cs",
               "RelativeToolTip": "Repo\\IEmployeeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T08:40:48.089Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "EmployeeRepository.cs",
               "DocumentMoniker": "C:\\Users\\MK\\Desktop\\C#\\EmployeeCRUD\\Repo\\EmployeeRepository.cs",
               "RelativeDocumentMoniker": "Repo\\EmployeeRepository.cs",
               "ToolTip": "C:\\Users\\MK\\Desktop\\C#\\EmployeeCRUD\\Repo\\EmployeeRepository.cs",
               "RelativeToolTip": "Repo\\EmployeeRepository.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAkwCsAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwC4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T08:23:40.41Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\MK\\Desktop\\C#\\EmployeeCRUD\\Startup.cs",
               "RelativeDocumentMoniker": "Startup.cs",
               "ToolTip": "C:\\Users\\MK\\Desktop\\C#\\EmployeeCRUD\\Startup.cs",
               "RelativeToolTip": "Startup.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAA3wCEAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T07:17:19.862Z",
               "EditorCaption": ""

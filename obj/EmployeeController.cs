@@ -18,6 +18,13 @@ namespace EmployeeCRUD.Controllers
             this.employeeRepository = employeeRepository;
         }
 
+        [HttpPost("")]
+        public async Task<IActionResult> RagistorEmployee([FromBody] EmployeeRagister employeeRagister )
+        {
+            var RgEmployee = await employeeRepository.Ragistersion(employeeRagister);
+            return Ok(RgEmployee);
+        }
+
         [HttpGet("")]
         public async Task<IActionResult> GetAllEmployee()
         {

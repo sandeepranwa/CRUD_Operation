@@ -84,3 +84,4 @@ C:\Users\MK\Desktop\C#\EmployeeCRUD\obj\Debug\net5.0\refint\EmployeeCRUD.dll
 C:\Users\MK\Desktop\C#\EmployeeCRUD\obj\Debug\net5.0\EmployeeCRUD.pdb
 C:\Users\MK\Desktop\C#\EmployeeCRUD\obj\Debug\net5.0\EmployeeCRUD.genruntimeconfig.cache
 C:\Users\MK\Desktop\C#\EmployeeCRUD\obj\Debug\net5.0\ref\EmployeeCRUD.dll
+C:\Users\MK\Desktop\C#\EmployeeCRUD\obj\Debug\net5.0\EmployeeCRUD.sourcelink.json

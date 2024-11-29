@@ -1,9 +1,13 @@
 ﻿using Dapper;
 using EmployeeCRUD.Model;
+using EmployeeCRUD.Model.DTO;
 using System;
 using System.Collections.Generic;
 using System.Data;
+using System.Linq;
 using System.Threading.Tasks;
+using System.Web.Http.ModelBinding;
+using static EmployeeCRUD.Model.DTO.MassageBoxDTO;
 
 namespace EmployeeCRUD.Repo
 {
@@ -15,6 +19,32 @@ namespace EmployeeCRUD.Repo
             this.dbConnection = dbConnection;
         }
 
+
+        public async Task<IEnumerable<EmployeeRagister>> Ragistersion(EmployeeRagister employeeRagister)
+        {
+            var parameters = new
+            {
+                employeeRagister.Name,
+                employeeRagister.Email,
+                employeeRagister.MobileNumber,
+                employeeRagister.Passward
+            };
+            var RgEmployee = await dbConnection.QueryAsync<EmployeeRagister>("RagisterEmployee", parameters, commandType: CommandType.StoredProcedure);
+            return RgEmployee;
+        }
+
+        //Login 
+        public async Task<IEnumerable<LoginDTO>> Login(Login loginDTO)
+        {
+            var parameters = new
+            {
+                loginDTO.Id,
+                loginDTO.Passward
+            };
+            var data = await dbConnection.QueryAsync<LoginDTO>("LoginEmployee", parameters, commandType: CommandType.StoredProcedure);
+            return data;
+
+        }
         //Get All Employee
         public async Task<IEnumerable<Employee>> GetAllEmployeeAsync()
         {
@@ -37,6 +67,7 @@ namespace EmployeeCRUD.Repo
             return newEmployee;
         }
 
+        //Upadte Employee
         public async Task<IEnumerable<Employee>> UpdateEmployee(Employee employee)
         {
             {
